@@ -1,0 +1,19 @@
+body{
+    background-image: url('../backround.jpg');
+
+}
+
+
+
+h1 {text-shadow: 2px 2px black; color:#ff847c;}
+h3 {text-shadow: 2px 2px black; color:#ff847c;}
+li {text-shadow: 2px 2px black; color:#ff847c;}
+a  {text-shadow: 2px 2px black; color:#ff847c;}
+td {text-shadow: 2px 2px black; color:#ff847c;}
+th {text-shadow: 2px 2px black; color:#ff847c;}
+label {text-shadow: 2px 2px black; color:#ff847c;}
+
+.main {border-radius: 100%;}
+
+img {height: 200px; width: 250px;
+     }
