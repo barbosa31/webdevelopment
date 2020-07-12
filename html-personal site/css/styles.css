@@ -1,0 +1,15 @@
+body{
+    background-image: url('../backround.jpg');
+
+}
+
+hr {border-color: grey;
+    width: 10%; border-style: dotted;border-width:5px; }
+
+h1 {text-shadow: 2px 2px black; color:#ff847c;}
+h3 {text-shadow: 2px 2px black; color:#ff847c;}
+li {text-shadow: 2px 2px black; color:#ff847c;}
+a  {text-shadow: 2px 2px black; color:#ff847c;}
+td {text-shadow: 2px 2px black; color:#ff847c;}
+th {text-shadow: 2px 2px black; color:#ff847c;}
+label {text-shadow: 2px 2px black; color:#ff847c;}
